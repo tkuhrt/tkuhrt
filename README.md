@@ -2,4 +2,5 @@
 
 * [@hyperledger](https://github.com/hyperledger/) Technical Steering Committee member
 * [@hyperledger-labs](https://github.com/hyperledger-labs/) Lab Steward
+* [@ethereum-oasis](https://github.com/ethereum-oasis) PGB
 * [@Accenture](https://github.com/Accenture/)
