@@ -3,5 +3,5 @@
 * [@eea-oasis](https://github.com/eea-oasis) PGB
 * [@Accenture](https://github.com/Accenture/)
 
-<img align='left' src='https://github-readme-stats.vercel.app/api/top-langs/?username=tkuhrt&theme=blue-green'>
+<img align='left' src='https://github-readme-stats.vercel.app/api/top-langs/?username=tkuhrt&theme=blue-green&layout=compact'>
 <img align='right' src='https://github-readme-stats.vercel.app/api?username=tkuhrt&show_icons=true'>
