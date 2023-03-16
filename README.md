@@ -32,8 +32,8 @@ Software architect and engineer with full software development lifecycle experie
         <b>Blockchain Interoperability with Hyperledger Cactus, Weaver, and Yui</b></br>
         Moderator - Hyperledger Global Forum 2022</br>
         <b>GBBC GSMI 2.0 Roundtable</b></br>Speaker - December 2021</br>
-        <b>Blockchain Interoperability</b></br>S
-        peaker - Blockchain Center of Excellence September 2021</br>
+        <b>Blockchain Interoperability</b></br>
+        Speaker - Blockchain Center of Excellence September 2021</br>
         <b>The Future of Blockchain Interoperability</b></br>
         Moderator - Hyperledger Global Forum 2021</br>
         <b>Planning for a Multichain World: DLT Interoperability and Integration Technologies</b></br>
