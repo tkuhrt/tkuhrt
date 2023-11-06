@@ -22,7 +22,7 @@ Software architect and engineer with full software development lifecycle experie
         <b>Professional Software Consultants (April 1998 - October 1999)</b></br>
         Software design and development of backend database applications.</br>
         <b>Dana Corporation (April 1995 - November 1997)</b></br>
-        Software design and development of  Windows database applications.</br>
+        Software design and development of Windows database applications.</br>
         </br>
         <b>PUBLIC SPEAKING</b></br>
         <b>Bringing Code to the Hyperledger Foundation</b></br>
