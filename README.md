@@ -25,6 +25,10 @@ Software architect and engineer with full software development lifecycle experie
         Software design and development of  Windows database applications.</br>
         </br>
         <b>PUBLIC SPEAKING</b></br>
+        <b>Bringing Code to the Hyperledger Foundation</b></br>
+        Moderator and Panelist - Hyperledger Member Summit 2023</br>
+        <b>OpenWallet Foundation Update</b></br>
+        Speaker - Internet Identity Workshop Fall 2023</br>
         <b>Technical Steering Committee Update</b></br>
         Keynote Speaker - Hyperledger Global Forum 2022</br>
         <b>Latest Technology Adoption Trends in Enterprise Blockchain Projects</b></br>
