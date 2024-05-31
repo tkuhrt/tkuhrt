@@ -8,7 +8,7 @@ Software architect and engineer with full software development lifecycle experie
         <b>Hyperledger Technical Oversight Committee (September 2019-Present)</b></br>
         Responsible for steering the technical direction for the Hyperledger Foundation. (2019-2020 Member, 2020-2021 Member and Vice Chair, 2021-2022 Member and Chair, 2022-2023 Member and Chair, 2023 Member and Chair)</br>
         <b>OpenWallet Foundation Technical Advisory Committee (March 2023-Present)</b></br>
-        Responsible for maintaining an overall strategic vision for technical collaboration and coordinating collaboration among Technical Projects, including development of an overall technical vision for the OpenWallet Foundation community. (2023 Member and Chair)</br>
+        Responsible for maintaining an overall strategic vision for technical collaboration and coordinating collaboration among Technical Projects, including development of an overall technical vision for the OpenWallet Foundation community. (2023 Member and Chair, 2024 Member and Chair)</br>
         <b>Accenture (February 2019-Present)</b></br>
         Blockchain and metaverse architect. Open source lead.</br>
         <b>The Linux Foundation (April 2017-February 2019)</b></br>
