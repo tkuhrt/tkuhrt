@@ -90,6 +90,13 @@ Software architect and engineer with full software development lifecycle experie
         <li>Privacy-secure edge-zone digital identity computing for open-loop pixel-state control (Granted: US/11409906)</li>
         <li>Privacy-secure edge-zone computing for secure-operation authorization (Granted: US/11075959)</li>
         <li>Digital signal controller instruction set and architecture (Application: US/20030061464)</li>
+      </ul></br>
+      <b>BADGES</b>
+      <ul>
+        <li>[![OSS Speaker 2023](./images/speaker-open-source-summit-north-america-2023.png)](https://www.credly.com/badges/13392c2d-3aae-4d7c-978b-fa3bc9dba966/public_url)</li>
+        <li>[![LF Member Summit Speaker 2022](./images/speaker-the-linux-foundation-member-summit-2022.png)](https://www.credly.com/badges/ec8786b8-4940-4389-871c-5305458f1c7c/public_url)</li>
+        <li>[![HGF Keynote Speaker 2022](./images/keynote-speaker-hyperledger-global-forum-europe-2022.png)](https://www.credly.com/badges/5f8f739d-0cde-4aaa-9a8b-e68ba066e537/public_url)</li>
+        <li>[![Corda Certified Developer](./images/corda-certified-developer.png)](https://www.credly.com/badges/add967f8-a689-42ea-a311-c4b48f0688f3/public_url)</li>
       </ul>
     </td>
   </tr>
