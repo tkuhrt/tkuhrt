@@ -6,7 +6,7 @@ Software architect and engineer with full software development lifecycle experie
   <tr>
     <td><b>EXPERIENCE</b></br>
         <b>LF Decentralized Trust Technical Advisory Council (September 2019-Present)</b></br>
-        Responsible for steering the technical direction for the Hyperledger Foundation. (2019-2020 Member, 2020-2021 Member and Vice Chair, 2021-2022 Member and Chair, 2022-2023 Member and Chair, 2023 Member and Chair, 2024 Member and Chair)</br>
+        Responsible for maintaining an overall strategic vision for technical collaboration and coordinating collaboration among Technical Projects, including development of an overall technical vision for LF Decentralized Trust community. (2019-2020 Member, 2020-2021 Member and Vice Chair, 2021-2022 Member and Chair, 2022-2023 Member and Chair, 2023 Member and Chair, 2024 Member and Chair)</br>
         <b>OpenWallet Foundation Technical Advisory Council (March 2023-Present)</b></br>
         Responsible for maintaining an overall strategic vision for technical collaboration and coordinating collaboration among Technical Projects, including development of an overall technical vision for the OpenWallet Foundation community. (2023 Member and Chair, 2024 Member and Chair)</br>
         <b>Accenture (February 2019-Present)</b></br>
