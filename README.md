@@ -5,11 +5,11 @@ Software architect and engineer with full software development lifecycle experie
 <table>
   <tr>
     <td><b>EXPERIENCE</b></br>
-        <b>LF Decentralized Trust Technical Advisory Council (September 2019-Present)</b></br>
+        <b>LF Decentralized Trust Technical Advisory Council (September 2019-December 2025)</b></br>
         Responsible for maintaining an overall strategic vision for technical collaboration and coordinating collaboration among Technical Projects, including development of an overall technical vision for LF Decentralized Trust community. (2019-2020 Member, 2020-2021 Member and Vice Chair, 2021-2022 Member and Chair, 2022-2023 Member and Chair, 2023 Member and Chair, 2024 Member and Chair)</br>
-        <b>OpenWallet Foundation Technical Advisory Council (March 2023-Present)</b></br>
+        <b>OpenWallet Foundation Technical Advisory Council (March 2023-February 2024)</b></br>
         Responsible for maintaining an overall strategic vision for technical collaboration and coordinating collaboration among Technical Projects, including development of an overall technical vision for the OpenWallet Foundation community. (2023 Member and Chair, 2024 Member and Chair)</br>
-        <b>Accenture (February 2019-Present)</b></br>
+        <b>Accenture (February 2019-April 2025)</b></br>
         Blockchain and metaverse architect. Open source lead.</br>
         <b>The Linux Foundation (April 2017-February 2019)</b></br>
         Community Architect for the Hyperledger Foundation.</br>
